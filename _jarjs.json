@@ -1,0 +1,21 @@
+{
+    "name": "get",
+    "path": {
+        "real": "./_jarjs/@modules/get/index.js",
+        "routed": "./_jarjs/@modules/get"
+    },
+    "files": {
+        "path": "./@modules",
+        "index": "./@modules/index.js"
+    },
+    "globals": {
+        "variables": {
+            "get": "function",
+            "set": "function",
+            "route": "function",
+            "complex": "function"
+        }
+    },
+    "module-type": "tagable",
+    "frameworks":{}
+}
